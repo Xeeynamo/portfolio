@@ -56,6 +56,18 @@ export default function socialMedia() {
         </a>
       ) : null}
 
+      {socialMediaLinks.youtube ? (
+        <a
+          href={socialMediaLinks.youtube}
+          className="icon-button youtube"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fab fa-youtube"></i>
+          <span></span>
+        </a>
+      ) : null}
+
       {socialMediaLinks.facebook ? (
         <a
           href={socialMediaLinks.facebook}
