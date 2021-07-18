@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "colorthief": "^2.3.0",
+    "devicon": "^2.12.0",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.6",
     "gh-pages": "^2.1.1",
@@ -16,9 +17,9 @@
     "react-lottie": "^1.2.3",
     "react-reveal": "^1.2.2",
     "react-scripts": "^3.4.3",
+    "react-test-renderer": "^17.0.2",
     "react-twitter-embed": "3.0.3",
-    "sass": "^1.32.8",
-    "react-test-renderer": "^17.0.2"
+    "sass": "^1.32.8"
   },
   "scripts": {
     "predeploy": "npm run build",
