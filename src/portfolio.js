@@ -218,7 +218,7 @@ const workExperiences = {
     {
       role: ".NET Web Developer",
       company: "Edilportale SPA",
-      companylogo: require("./assets/images/experience/edilportale.webp"),
+      companylogo: require("./assets/images/experience/edilportale.png"),
       date: "Apr 2017 – Dec 2017",
       companydesc: "",
       desc: "",
