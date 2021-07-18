@@ -7,7 +7,7 @@
 import emoji from "react-easy-emoji";
 
 const illustration = {
-  animated: true // set to false to use static SVG
+  animated: false // set to false to use static SVG
 };
 
 const greeting = {
@@ -178,7 +178,7 @@ const workExperiences = {
         "Pair programming to 99% of the code",
         "AWS, Lambda serverless RESTful services (.Net, NodeJS, Golang)",
         "Windows stack based (C#, ASP.NET MVC, .NET Core)",
-        "Greenfield project using .Net Core with C# and React with TypeScript",
+        "Greenfield project using .NET Core with C# and React with TypeScript",
         "Self-development using bleeding edge technologies to create prototypes",
         "Automation using TeamCity as CI/CI, Octopus to deploy and PowerShell to build and test"
       ]
@@ -190,7 +190,7 @@ const workExperiences = {
       date: "Feb 2018 – Sep 2018",
       companydesc:
         "Informed safeguarding and children protection on the internet",
-      desc: "I was responsible to rewrite the whole architecture from the monolithic WCF to a micro-services architecture using .Net Core, Docker and Microsoft Azure services. This massively improved the speed of the development, directly communicating with Android, iOS and QA teams.",
+      desc: "I was responsible to rewrite the whole architecture from the monolithic WCF to a micro-services architecture using .NET Core, Docker and Microsoft Azure services. This massively improved the speed of the development, directly communicating with Android, iOS and QA teams.",
       descBullets: [
         "Architectural re-design of back-end RESTful services",
         "Communication with the other development divisions and to the business analyst",
