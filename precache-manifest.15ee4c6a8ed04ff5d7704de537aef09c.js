@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10ae520c3cda861e4d734450d28bf120",
+    "revision": "754c0c1382d52f0e438fe84cb8205276",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.7bc24cb5.chunk.css"
   },
   {
-    "revision": "752f76b9e496133d7f40",
+    "revision": "a4881b12080b368a0e42",
     "url": "/static/css/main.b0830acb.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.e938f305.chunk.js"
   },
   {
-    "revision": "752f76b9e496133d7f40",
-    "url": "/static/js/main.318e0ec5.chunk.js"
+    "revision": "a4881b12080b368a0e42",
+    "url": "/static/js/main.db800a7f.chunk.js"
   },
   {
     "revision": "4f657b2f5b5a5417a32c",
@@ -58,10 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
-  },
-  {
-    "revision": "527c95037098f5b386795256e5ec8272",
-    "url": "/static/media/edilportale.527c9503.webp"
   },
   {
     "revision": "6d976ec6319b09da0055e4e9c78c53c7",
