@@ -22,7 +22,7 @@
   flex-direction: column;
   background-color: $lightBackground2;
   padding: 1.5rem;
-  border-radius: 10px;
+  border-radius: $borderRadius;
   border: 1px solid $lightBorder1;
   justify-content: center;
 }

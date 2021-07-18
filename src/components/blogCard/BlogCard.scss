@@ -5,7 +5,7 @@
 }
 
 .blog-container {
-  border-radius: 10px;
+  border-radius: $borderRadius;
   color: $blogCardContainerColor;
   background-color: $lightBackground1;
   box-shadow: 0 0 36px $lightBoxShadow;
