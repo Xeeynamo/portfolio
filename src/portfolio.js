@@ -161,9 +161,22 @@ const workExperiences = {
       company: "7digital",
       companylogo: require("./assets/images/experience/7digital.png"),
       date: "Nov 2019 – Present",
-      companydesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: []
+      companydesc:
+        "Provides all the tools needed to offer and manage music as a core part of experiences in social, fitness, digital music services and more.",
+      desc:
+        "I helped my team to automate the most important piece of infrastructure that was previously processed manually from a separate team. " +
+        "I was responsible to provide a solution to automate those UI applications into a scripted and scheduled system. " +
+        "I also helped my team by designing and implementing a solution to speed-up a system that is responsible to process terabytes of data per day by using concurrency patterns and increasing the throughput by 8 times. " +
+        "For the same system, I also detected a degradation of performance due to high CPU usage; by rewriting a tool using GCP SDK I increased the network throughput speed from 160Mb/s to 2Gb/s. All those improvements were detected by adding the right metrics in the whole process. ",
+      descBullets: [
+        "Upgraded API from .NET Framework to .NET Core to lower latency",
+        "Prototyped a working CI/CD pipeline to move an API to Linux to achieve a more responsive scalability",
+        "Added logging and metrics to prove the weak points of our API and to measure the improvements over time",
+        "Built both apps and CI pipeline as Google Cloud Functions in JS to react fast on events in Google Cloud Storage",
+        "Deployed custom builds of some C++ open-source projects to gain up to 1.5x of throughput on converting lossless media into lossy formats",
+        "Extensive use of GitHub Actions as main CI/CD for all the new projects",
+        "TDD and pair programming"
+      ]
     },
     {
       role: "Software Developer",
@@ -176,7 +189,7 @@ const workExperiences = {
       descBullets: [
         "Test Driven Development",
         "Pair programming to 99% of the code",
-        "AWS, Lambda serverless RESTful services (.Net, NodeJS, Golang)",
+        "AWS, Lambda serverless RESTful services (.NET, NodeJS, Golang)",
         "Windows stack based (C#, ASP.NET MVC, .NET Core)",
         "Greenfield project using .NET Core with C# and React with TypeScript",
         "Self-development using bleeding edge technologies to create prototypes",
